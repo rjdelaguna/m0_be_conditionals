@@ -99,6 +99,7 @@ puts "Does the dog love to play and love the dog park?", loves_to_play && loves_
 puts "Does the dog love either to play or the dog park?", loves_to_play || loves_dog_park
 
 # Determine if the dog loves to play and is a puppy
+puts "Does the dog love to play and is a puppy?", loves_to_play && age == "puppy"
 
 # What did your final line of code evaluate to? Why do you think that is? Explain.
 # ANSWER:
