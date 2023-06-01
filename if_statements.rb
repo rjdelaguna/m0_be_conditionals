@@ -65,7 +65,7 @@ end
 
 cups_of_flour = 3
 has_sauce = true
-if cups_of_flour >=2 && has_sauce
+if cups_of_flour >= 2 && has_sauce
   puts "I can make a pizza"
 else
   puts "I cannot make a pizza"
