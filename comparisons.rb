@@ -54,21 +54,21 @@ puts "Is number_students less than or equal to 21?", number_students <= 21
 
 puts 4 < 9
 #YOU DO: Explain.
-    # This line is asking to print whether integer 4 is less than integer 9. We can expect this to print true.
+    # This line is asking to print whether integer 4 is less than integer 9. We can expect this to print true. 4 is less than 9.
 books = 3
 puts 4 < books
 # YOU DO: Explain.
-    # The first line is assigning integer 3 to the variable "books". The second line asking to print whether integer 4 is less than whatever has been assigned to variable books, in this case integer 3. We can expect this to print false.
+    # The first line is assigning integer 3 to the variable "books". The second line is asking to print whether integer 4 is less than whatever has been assigned to variable "books", in this case integer 3. We can expect this to print false. 4 is not less than 3.
 friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
-    # The first line is assigning integer 6 to the variable "friends". The second line is assigning integer 2 to the variable "siblings". The final line is asking to print whether what has been assigned to "friends" is greater than what has been assigned to "siblings". We can expect this to print true.
+    # The first line is assigning integer 6 to the variable "friends". The second line is assigning integer 2 to the variable "siblings". The final line is asking to print whether what has been assigned to "friends" is greater than what has been assigned to "siblings". We can expect this to print true. 6 is greater than 2.
 attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
-
+    # The first line is assigning integer 9 to the variable "attendees". The second line is assigning integer 8 to the variable "meals". The final line is asking to print whether what has been assigned to "attendees" does not equal what has been assigned to "meals". We can expect this to print true. 9 does not equal 8.
 
 #-------------------
 # PART 3: Logical Operators
