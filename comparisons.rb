@@ -93,7 +93,7 @@ age = 1
 puts "Does the dog love to play and love treats?", loves_to_play && loves_treats
 
 # Determine if the dog loves to play and loves the dog park
-
+puts "Does the dog love to play and love the dog park?", loves_to_play && loves_dog_park
 
 # Determine if the dog loves to play or loves the dog park
 
