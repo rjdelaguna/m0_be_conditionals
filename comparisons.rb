@@ -96,7 +96,7 @@ puts "Does the dog love to play and love treats?", loves_to_play && loves_treats
 puts "Does the dog love to play and love the dog park?", loves_to_play && loves_dog_park
 
 # Determine if the dog loves to play or loves the dog park
-
+puts "Does the dog love either to play or the dog park?", loves_to_play || loves_dog_park
 
 # Determine if the dog loves to play and is a puppy
 
