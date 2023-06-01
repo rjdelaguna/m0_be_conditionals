@@ -58,7 +58,7 @@ puts 4 < 9
 books = 3
 puts 4 < books
 # YOU DO: Explain.
-
+    # The first line is assigning integer 3 to the variable "books". The second line asking to print whether integer 4 is less than whatever has been assigned to variable books, in this case integer 3. We can expect this to print false.
 friends = 6
 siblings = 2
 puts friends > siblings
