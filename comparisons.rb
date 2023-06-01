@@ -63,7 +63,7 @@ friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
-
+    # The first line is assigning integer 6 to the variable "friends". The second line is assigning integer 2 to the variable "siblings". The final line is asking to print whether what has been assigned to "friends" is greater than what has been assigned to "siblings". We can expect this to print true.
 attendees = 9
 meals = 8
 puts attendees != meals
