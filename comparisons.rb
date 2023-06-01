@@ -102,4 +102,4 @@ puts "Does the dog love either to play or the dog park?", loves_to_play || loves
 puts "Does the dog love to play and is a puppy?", loves_to_play && age == "puppy"
 
 # What did your final line of code evaluate to? Why do you think that is? Explain.
-# ANSWER:
+# ANSWER:  My final line evaluated to false. This happened because I asked if both [the boolean return from "loves_to_play"] and [the boolean return from (is whatever is assigned to the variable "age" equal to the string "puppy)] are true. I had to write a statement that would return a true or false result, since simply calling for age would result in a 1 being printed. Also the age at which a dog is considered a puppy can vary depending on who you are talking with. (Though I would consider a 1 year old still a puppy) I felt it safer to go with the string request rather than to say something like "age < 2" which would return true.
