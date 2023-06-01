@@ -54,7 +54,7 @@ puts "Is number_students less than or equal to 21?", number_students <= 21
 
 puts 4 < 9
 #YOU DO: Explain.
-
+    # This line is asking to print whether integer 4 is less than integer 9. We can expect this to print true.
 books = 3
 puts 4 < books
 # YOU DO: Explain.
